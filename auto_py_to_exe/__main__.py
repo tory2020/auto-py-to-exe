@@ -28,7 +28,7 @@ import re
 import traceback
 import tempfile
 import json
-from . import __version__ as version
+from auto_py_to_exe import __version__ as version
 
 
 class CaptureStderr:
